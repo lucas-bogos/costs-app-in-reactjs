@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "name": "Meu app em React",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 100,
+      "services": [
+        {
+          "name": "meu serviço teste",
+          "cost": "100",
+          "description": "teste",
+          "id": "caca23b1-71d4-4483-9693-f94e7aa6e061"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Updating project again",
+      "budget": "2000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
